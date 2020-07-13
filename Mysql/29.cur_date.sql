@@ -1,0 +1,1 @@
+insert into people (name, birthdate,birthtime, birthdt) value('new',curdate(),curtime(),now());
