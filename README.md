@@ -32,7 +32,7 @@ CREATE DATABASE database_name;
 
 A specific example:
 
-CREATE DATABASE soap_store
+CREATE DATABASE soap_store 
 
 To drop a database:
 
